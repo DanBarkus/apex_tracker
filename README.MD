@@ -1,5 +1,7 @@
 # Apex Tracker
 
+![sample gif](./docs/test_clip.gif)
+
 ## What it does
 ### Intended Goal
 The whole goal is more granular Apex tracking.
